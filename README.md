@@ -18,3 +18,5 @@ Here's my SSH Key
 Now I'll add some more
 
 Maybe it's not such a good idea to publish my SSH key!
+
+Continuing to push forward in hopes of a proper merge.
