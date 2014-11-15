@@ -20,3 +20,5 @@ Now I'll add some more
 Maybe it's not such a good idea to publish my SSH key!
 
 First comment to the development branch after the first merge
+
+Adding another comment to the dev branch before merge.
